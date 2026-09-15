@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/gist/sourav909090/70b89c3a0e7f6b95d27b3d932e016914/ai-resume-analyzer.ipynb
 """
 
-pip install openai PyPDF2
+
 
 from google.colab import files
 uploaded = files.upload()
